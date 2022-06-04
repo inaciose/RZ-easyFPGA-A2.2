@@ -1,0 +1,34 @@
+set_global_assignment -name FAMILY "Cyclone IV E"
+set_global_assignment -name DEVICE EP4CE6E22C8
+#set_global_assignment -name DEVICE_FILTER_PACKAGE FBGA
+#set_global_assignment -name DEVICE_FILTER_SPEED_GRADE 7
+set_global_assignment -name MIN_CORE_JUNCTION_TEMP 0
+set_global_assignment -name MAX_CORE_JUNCTION_TEMP 85
+
+
+set_location_assignment PIN_23 -to CLOCK_50
+
+set_location_assignment PIN_88 -to KEY[0]
+set_location_assignment PIN_89 -to KEY[1]
+set_location_assignment PIN_90 -to KEY[2]
+set_location_assignment PIN_91 -to KEY[3]
+
+set_location_assignment PIN_25 -to KEY[4]
+
+set_location_assignment PIN_87 -to LED[0]
+set_location_assignment PIN_86 -to LED[1]
+set_location_assignment PIN_95 -to LED[2]
+set_location_assignment PIN_94 -to LED[3]
+
+set_location_assignment PIN_128 -to SEG[0]
+set_location_assignment PIN_121 -to SEG[1]
+set_location_assignment PIN_125 -to SEG[2]
+set_location_assignment PIN_129 -to SEG[3]
+set_location_assignment PIN_132 -to SEG[4]
+set_location_assignment PIN_126 -to SEG[5]
+set_location_assignment PIN_124 -to SEG[6]
+set_location_assignment PIN_127 -to SEG[7]
+set_location_assignment PIN_133 -to DIG[0]
+set_location_assignment PIN_135 -to DIG[1]
+set_location_assignment PIN_136 -to DIG[2]
+set_location_assignment PIN_137 -to DIG[3]
