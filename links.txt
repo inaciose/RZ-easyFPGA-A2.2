@@ -1,0 +1,24 @@
+Same board
+
+https://github.com/leocelente/fpga-projects
+
+https://github.com/kdg-auts/RZ-easyFPGA
+
+https://gojimmypi.blogspot.com/2018/02/first-fpga-test-drive-with-altera.html
+
+https://www.philipzucker.com/simple-fpga-stuff/
+
+
+Same chip (need to check pin assigments)
+
+https://jborza.com/hardware/2020/10/04/my-first-altera-fpga.html
+
+https://github.com/addisonElliott/LogiFindFPGATest (verilog)
+
+https://embeddedsystems.io/ahmes-altera-cyclone-iv-fpga/
+
+
+
+DIY boards shematics
+
+https://github.com/WangXuan95/UniPlug-FPGA
