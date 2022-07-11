@@ -1,4 +1,4 @@
-Muxed version that drives the four seven segments displays independently
+Muxed version that drives the four seven segments displays independently on a RZ-easyFPGA A2.2
 
 The inputs are:
 
