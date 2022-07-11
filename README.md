@@ -3,6 +3,9 @@ Some projects for exploring the RZ easyFPGA A2.2, Cyclone IV based board
 
 Quartus prime 20.1 
 
+
+- rz_easyfpga_2_2.qsf - Master file with the pin definitions for the RZ easyFPGA A2.2, Cyclone IV based board
+
 Folders
 
 - 7400 Logic Series Chips on VHDL (used in Ben Eater 8 bit computer)
