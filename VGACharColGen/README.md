@@ -1,0 +1,1 @@
+Char generator with atributes
